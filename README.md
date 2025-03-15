@@ -18,6 +18,9 @@ This is a real-time financial analysis and sentiment tracking system that integr
 ### 🔹 Architecture Diagram:
 ![System Architecture](Architecture_Diagram.jpg) 
 
+### Demo Video  
+Watch the demo here: [FinHub Demo](https://youtu.be/xuNbBPXiPVU)
+
 ## 📂 Repository Structure
 
 This repository consists of four main components:
