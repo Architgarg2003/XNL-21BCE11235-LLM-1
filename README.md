@@ -15,6 +15,9 @@ This is a real-time financial analysis and sentiment tracking system that integr
 ✅ **Prophet, ARIMA** for stock price forecasting  
 ✅ **Together AI & OpenAI (GPT-4o-mini, Llama-3.3-70B)** for AI-powered insights  
 
+### 🔹 Architecture Diagram:
+![System Architecture](Architecture_Diagram.jpg) 
+
 ## 📂 Repository Structure
 
 This repository consists of four main components:
