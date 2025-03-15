@@ -67,8 +67,7 @@ This repository consists of four main components:
 ✅ Developed using **FastAPI**  
 ✅ Routes AI queries via **OpenAI (GPT-4o-mini) & Together AI (Llama-3.3-70B)**  
 ✅ Hosts **forecasting models** (ARIMA, Prophet)  
-✅ Fetches stock data & news sentiment  
-✅ Hosted on **Railway.app**  
+✅ Fetches stock data & news sentiment 
 
 #### 📌 Frontend:
 ✅ Built using **Next.js & Tailwind CSS**  
